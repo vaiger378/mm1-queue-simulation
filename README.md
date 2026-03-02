@@ -23,14 +23,14 @@ Dla $\rho$ > 1 system jest niestabilny tzn. kolejka może się rozciągnąć w n
 
 
 ### 🧮 Wzory
-Średni czas oczekiwania w kolejce:
-$ W_q = \frac{\rho}{\mu - \lambda} $
+Średni czas oczekiwania w kolejce: 
+$$W_q = \frac{\rho}{\mu - \lambda}$$
 
 Średnia liczba klientów w systemie:
-$ L = \frac{\rho}{1-\rho} $
+$L = \frac{\rho}{1-\rho} $
 
 Średnia długość kolejki:
-$ L_q = \frac{\rho^2}{1-\rho} $
+$L_q = \frac{\rho^2}{1-\rho}$
 
 
 ### 🧩 Struktura
@@ -129,13 +129,13 @@ For $\rho > 1$ the system becomes unstable, meaning the queue may grow indefinit
 
 ### 🧮 Formulas
 Average waiting time in the queue:
-$ W_q = \frac{\rho}{\mu - \lambda} $
+$W_q = \frac{\rho}{\mu - \lambda}$
 
 Average number of customers in the system:
-$ L = \frac{\rho}{1-\rho} $
+$L = \frac{\rho}{1-\rho}$
 
 Average queue length:
-$ L_q = \frac{\rho^2}{1-\rho} $
+$L_q = \frac{\rho^2}{1-\rho}$
 
 
 ### 🧩 Structure
